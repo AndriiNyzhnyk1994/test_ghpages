@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './tom.gif';
 import './App.css';
 
 function App() {
@@ -9,7 +9,6 @@ function App() {
         <p>
           Just testing GH-Pages here
         </p>
-        
       </header>
     </div>
   );
