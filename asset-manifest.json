@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "//test_ghpages/static/css/main.7fc49894.css",
+    "main.js": "//test_ghpages/static/js/main.7a4c8e63.js",
+    "static/js/787.d5a1dfd4.chunk.js": "//test_ghpages/static/js/787.d5a1dfd4.chunk.js",
+    "static/media/tom.gif": "//test_ghpages/static/media/tom.cfcf9450fbe857148440.gif",
+    "index.html": "//test_ghpages/index.html",
+    "main.7fc49894.css.map": "//test_ghpages/static/css/main.7fc49894.css.map",
+    "main.7a4c8e63.js.map": "//test_ghpages/static/js/main.7a4c8e63.js.map",
+    "787.d5a1dfd4.chunk.js.map": "//test_ghpages/static/js/787.d5a1dfd4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fc49894.css",
+    "static/js/main.7a4c8e63.js"
+  ]
+}
